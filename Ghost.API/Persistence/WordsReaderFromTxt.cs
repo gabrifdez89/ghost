@@ -19,7 +19,7 @@ namespace Ghost.API.Persistence
             var data = _fileSystem.ReadAllText(Path.Combine(Environment.CurrentDirectory, "AppData/wordlist.txt"));
 
             IEnumerable<string> words = data.Split(
-                new[] { Environment.NewLine },
+                new[] { "\r\n", "\r", "\n" },
                 StringSplitOptions.None
             );
 
