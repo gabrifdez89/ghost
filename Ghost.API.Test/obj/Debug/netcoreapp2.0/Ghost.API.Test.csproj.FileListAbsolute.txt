@@ -1,0 +1,17 @@
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.Test\bin\Debug\netcoreapp2.0\Ghost.API.Test.deps.json
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.Test\bin\Debug\netcoreapp2.0\Ghost.API.Test.runtimeconfig.json
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.Test\bin\Debug\netcoreapp2.0\Ghost.API.Test.runtimeconfig.dev.json
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.Test\bin\Debug\netcoreapp2.0\Ghost.API.Test.dll
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.Test\obj\Debug\netcoreapp2.0\Ghost.API.Test.csprojAssemblyReference.cache
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.Test\obj\Debug\netcoreapp2.0\Ghost.API.Test.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.Test\obj\Debug\netcoreapp2.0\Ghost.API.Test.AssemblyInfoInputs.cache
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.Test\obj\Debug\netcoreapp2.0\Ghost.API.Test.AssemblyInfo.cs
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.Test\bin\Debug\netcoreapp2.0\Ghost.API.Test.pdb
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.Test\bin\Debug\netcoreapp2.0\Ghost.API.dll
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.Test\bin\Debug\netcoreapp2.0\Ghost.API.pdb
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.Test\obj\Debug\netcoreapp2.0\Ghost.API.Test.csproj.CopyComplete
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.Test\obj\Debug\netcoreapp2.0\Ghost.API.Test.dll
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.Test\obj\Debug\netcoreapp2.0\Ghost.API.Test.pdb

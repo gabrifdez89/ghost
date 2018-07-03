@@ -1,0 +1,46 @@
+﻿body {
+    background-color: mediumpurple;
+    overflow: hidden;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center; /*centers items on the line (the x-axis by default)*/
+    align-items: center; /*centers items on the cross-axis (y by default)*/
+}
+
+.container {
+    height: 50%;
+    min-height: 400px;
+    width: 300px;
+    background-color: white;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.word {
+    height: 100px;
+    font-size: 21px;
+    font-family: monospace;
+}
+
+.gameform {
+    height: 100px;
+}
+
+.result {
+    font-size: 50px;
+    font-family: sans-serif;
+    height: 100px;
+}
+
+.win {
+    color: #1fc11f;
+}
+
+.lose {
+    color: #ef1010;
+}

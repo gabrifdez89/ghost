@@ -1,0 +1,11 @@
+C:\Users\Gabri\source\repos\Ghost\Ghost.WebClient\bin\Debug\netcoreapp2.0\Ghost.WebClient.deps.json
+C:\Users\Gabri\source\repos\Ghost\Ghost.WebClient\bin\Debug\netcoreapp2.0\Ghost.WebClient.runtimeconfig.json
+C:\Users\Gabri\source\repos\Ghost\Ghost.WebClient\bin\Debug\netcoreapp2.0\Ghost.WebClient.runtimeconfig.dev.json
+C:\Users\Gabri\source\repos\Ghost\Ghost.WebClient\bin\Debug\netcoreapp2.0\Ghost.WebClient.dll
+C:\Users\Gabri\source\repos\Ghost\Ghost.WebClient\bin\Debug\netcoreapp2.0\Ghost.WebClient.pdb
+C:\Users\Gabri\source\repos\Ghost\Ghost.WebClient\obj\Debug\netcoreapp2.0\Ghost.WebClient.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\source\repos\Ghost\Ghost.WebClient\obj\Debug\netcoreapp2.0\Ghost.WebClient.AssemblyInfoInputs.cache
+C:\Users\Gabri\source\repos\Ghost\Ghost.WebClient\obj\Debug\netcoreapp2.0\Ghost.WebClient.AssemblyInfo.cs
+C:\Users\Gabri\source\repos\Ghost\Ghost.WebClient\obj\Debug\netcoreapp2.0\Ghost.WebClient.dll
+C:\Users\Gabri\source\repos\Ghost\Ghost.WebClient\obj\Debug\netcoreapp2.0\Ghost.WebClient.pdb
+C:\Users\Gabri\source\repos\Ghost\Ghost.WebClient\obj\Debug\netcoreapp2.0\Ghost.WebClient.csprojAssemblyReference.cache

@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html ng-app="GhostGame">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.2/angular.min.js"></script>
+    <script src="js/game.js"></script>
+    <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.6/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+    <div class="container" ng-controller="GameController as game">
+        
+            
+            <div class="word">
+                <span>{{game.word}}</span>
+            </div>
+
+            <div class="gameform">
+                <div class="col-sm-12 col-md-10 col-md-offset-1">
+                    <form>
+                        <div class="form-group">
+                            <input ng-model="game.letter" type="text" class="form-control" id="letter" placeholder="Type letter" maxlength="1" pattern="[a-z]+">
+                        </div>
+                        <div class="form-group" ng-show="!game.finished">
+                            <button ng-click="game.playLetter()" type="button" class="btn btn-def btn-block">Play</button>
+                        </div>
+                        <div class="form-group" ng-show="game.finished">
+                            <button ng-click="game.restart()" type="button" class="btn btn-def btn-block">Restart</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <div class="result">
+                <div class="lose" ng-show="game.lose">LOSE</div>
+                <div class="win" ng-show="game.win">WIN</div>
+            </div>
+
+    </div>
+</body>
+</html>

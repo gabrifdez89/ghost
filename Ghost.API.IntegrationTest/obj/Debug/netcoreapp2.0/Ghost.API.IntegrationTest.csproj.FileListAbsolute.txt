@@ -1,0 +1,17 @@
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.IntegrationTest\obj\Debug\netcoreapp2.0\Ghost.API.IntegrationTest.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.IntegrationTest\obj\Debug\netcoreapp2.0\Ghost.API.IntegrationTest.AssemblyInfoInputs.cache
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.IntegrationTest\obj\Debug\netcoreapp2.0\Ghost.API.IntegrationTest.AssemblyInfo.cs
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.IntegrationTest\obj\Debug\netcoreapp2.0\Ghost.API.IntegrationTest.csprojAssemblyReference.cache
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.IntegrationTest\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.IntegrationTest\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.IntegrationTest\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.IntegrationTest\bin\Debug\netcoreapp2.0\Ghost.API.IntegrationTest.deps.json
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.IntegrationTest\bin\Debug\netcoreapp2.0\Ghost.API.IntegrationTest.runtimeconfig.json
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.IntegrationTest\bin\Debug\netcoreapp2.0\Ghost.API.IntegrationTest.runtimeconfig.dev.json
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.IntegrationTest\bin\Debug\netcoreapp2.0\Ghost.API.IntegrationTest.dll
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.IntegrationTest\obj\Debug\netcoreapp2.0\Ghost.API.IntegrationTest.csproj.CopyComplete
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.IntegrationTest\bin\Debug\netcoreapp2.0\Ghost.API.IntegrationTest.pdb
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.IntegrationTest\bin\Debug\netcoreapp2.0\Ghost.API.dll
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.IntegrationTest\bin\Debug\netcoreapp2.0\Ghost.API.pdb
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.IntegrationTest\obj\Debug\netcoreapp2.0\Ghost.API.IntegrationTest.dll
+C:\Users\Gabri\source\repos\Ghost\Ghost.API.IntegrationTest\obj\Debug\netcoreapp2.0\Ghost.API.IntegrationTest.pdb

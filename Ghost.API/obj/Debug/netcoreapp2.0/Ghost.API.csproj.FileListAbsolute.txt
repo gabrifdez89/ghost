@@ -1,0 +1,11 @@
+C:\Users\Gabri\source\repos\Ghost\Ghost.API\bin\Debug\netcoreapp2.0\Ghost.API.deps.json
+C:\Users\Gabri\source\repos\Ghost\Ghost.API\bin\Debug\netcoreapp2.0\Ghost.API.runtimeconfig.json
+C:\Users\Gabri\source\repos\Ghost\Ghost.API\bin\Debug\netcoreapp2.0\Ghost.API.runtimeconfig.dev.json
+C:\Users\Gabri\source\repos\Ghost\Ghost.API\bin\Debug\netcoreapp2.0\Ghost.API.dll
+C:\Users\Gabri\source\repos\Ghost\Ghost.API\bin\Debug\netcoreapp2.0\Ghost.API.pdb
+C:\Users\Gabri\source\repos\Ghost\Ghost.API\obj\Debug\netcoreapp2.0\Ghost.API.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\source\repos\Ghost\Ghost.API\obj\Debug\netcoreapp2.0\Ghost.API.AssemblyInfoInputs.cache
+C:\Users\Gabri\source\repos\Ghost\Ghost.API\obj\Debug\netcoreapp2.0\Ghost.API.AssemblyInfo.cs
+C:\Users\Gabri\source\repos\Ghost\Ghost.API\obj\Debug\netcoreapp2.0\Ghost.API.dll
+C:\Users\Gabri\source\repos\Ghost\Ghost.API\obj\Debug\netcoreapp2.0\Ghost.API.pdb
+C:\Users\Gabri\source\repos\Ghost\Ghost.API\obj\Debug\netcoreapp2.0\Ghost.API.csprojAssemblyReference.cache
